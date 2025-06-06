@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abbas</h1>
-<h3 align="center">A passionate Full Stack web developer specialized in MERN stack</h3>
+<h3 align="center">A passionate Full Stack web developer and STARTUP enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abutastic&label=Profile%20views&color=0e75b6&style=flat" alt="abutastic" /> </p>
 
